@@ -28,7 +28,7 @@ export default function LaCeibaLinks() {
       icon: <Home className="w-6 h-6" />,
     },
     {
-      name: "HostalWorld",
+      name: "HostelWorld",
       url: "https://www.spanish.hostelworld.com/pwa/hosteldetails.php/La-Ceiba-Hostel/Mexico-City/337444",
       gradient: "from-orange-500 to-red-500",
       icon: <Home className="w-6 h-6" />,
@@ -40,14 +40,14 @@ export default function LaCeibaLinks() {
       {/* Logo */}
       <motion.img
         src="/ceiba-logo-s.png"
-        alt="Hostel La Ceiba"
+        alt="La Ceiba Hostel"
         className="w-36 h-36 mt-10 mb-4 drop-shadow-xl"
         initial={{ opacity: 0, scale: 0.7 }}
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.8, ease: "easeOut" }}
       />
 
-      <h1 className="text-3xl font-semibold tracking-wide mb-2">Hostel La Ceiba</h1>
+      <h1 className="text-3xl font-semibold tracking-wide mb-2">La Ceiba Hostel</h1>
       <p className="text-sm text-emerald-200 mb-8 text-center max-w-xs">
         Naturaleza, descanso y conexión en el corazón de la ciudad
       </p>
@@ -84,7 +84,7 @@ export default function LaCeibaLinks() {
       </a>
 
       <footer className="mt-12 text-xs text-emerald-300 opacity-80">
-        © {new Date().getFullYear()} Hostel La Ceiba · CDMX
+        © {new Date().getFullYear()} La Ceiba Hostel · CDMX
       </footer>
     </div>
   );
