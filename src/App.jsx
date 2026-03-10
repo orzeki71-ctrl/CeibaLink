@@ -28,10 +28,10 @@ export default function LaCeibaLinks() {
       icon: <Home className="w-6 h-6" />,
     },
     {
-      name: "Google Maps",
-      url: "https://maps.app.goo.gl/TEKj7Wzp2WpRERm29",
+      name: "HostalWorld",
+      url: "https://www.spanish.hostelworld.com/pwa/hosteldetails.php/La-Ceiba-Hostel/Mexico-City/337444",
       gradient: "from-orange-500 to-red-500",
-      icon: <MapPin className="w-6 h-6" />,
+      icon: <Home className="w-6 h-6" />,
     },
   ];
 
