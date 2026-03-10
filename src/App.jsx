@@ -49,7 +49,7 @@ export default function LaCeibaLinks() {
 
       <h1 className="text-3xl font-semibold tracking-wide mb-2">La Ceiba Hostel</h1>
       <p className="text-sm text-emerald-200 mb-8 text-center max-w-xs">
-        Naturaleza, descanso y conexión en el corazón de la ciudad
+       🌍 Comunidad viajera, ✨ Diversión & 🌴buenas vibras
       </p>
 
       {/* Links */}
